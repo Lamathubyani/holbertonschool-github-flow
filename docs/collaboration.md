@@ -1,6 +1,8 @@
 # Collaboration Guidelines
 
-Effective teamwork depends on continuous feedback and shared understanding.
+ HEAD
+Collaboration requires adaptability, trust, and continuous alignment among team members.
+837c6d18df5bc2ec0cecca9043120d5e691ce4bc
 
 When multiple people work on these documents, it is common for changes to overlap. Overlapping changes can lead to merge conflicts, which are a normal part of a collaborative workflow.
 
